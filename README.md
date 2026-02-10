@@ -109,14 +109,6 @@ This phase boosts both **digital design fundamentals** and **SystemVerilog codin
 |-----|------|------------------|---------------------|--------|
 | 1 | 01/12/2025 | Half Adder | Simple testbench |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
 | 2 | 02/12/2025 | Full Adder | Simple testbench |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
-| 3 | 08/12/2025 | 4-bit Adder | Interface + TB integration | |
-| 4 | 09/12/2025 | Subtractor | Functional coverage | |
-| 5 | 10/12/2025 | Comparator | Assertions | |
-| 6 | 11/12/2025 | MUX (2:1 / 4:1) | Constrained random TB | |
-| 7 | 12/12/2025 | Decoder (3:8) | Self-checking TB | |
-| 8 | 13/12/2025 | Counter (4-bit) | Scoreboard refinement | |
-| 9 | 14/12/2025 | FSM (Moore) | Reference model | |
-| 10 | 15/12/2025 | FSM (Mealy) | Coverage closure | |
 
 ---
 
